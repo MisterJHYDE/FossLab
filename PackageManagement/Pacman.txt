@@ -1,0 +1,13 @@
+Pacman is the package manager for arch Linux
+
+Installing
+
+pacman -S <package-name>
+
+Deletion
+
+pacman -R <package-name>
+
+Updation
+
+pacman -Syu     # This Updates All The Packages In One Go

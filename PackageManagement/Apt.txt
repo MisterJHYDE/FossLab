@@ -1,0 +1,17 @@
+APT (the Advanced Packaging Tool) is an evolution of the Debian .deb software packaging system
+
+apt-get is the command-line tool for working with APT software packages
+
+Installing
+
+sudo apt-get install <package-name>
+
+Deletion
+
+sudo apt-get remove <package-name>
+
+Updation
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
