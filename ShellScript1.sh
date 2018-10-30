@@ -1,6 +1,6 @@
 #!/bin/bash
 #4. Shell Programming   
-
+#hey 2nd time
 echo "Username: $USERNAME"
 echo "Current User: $USER"
 echo "Home Directory: $HOME"
